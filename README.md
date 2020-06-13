@@ -6,3 +6,5 @@ i.e Total cases, new cases , Total deaths , new deaths ,Total tests etc..of whic
 This app uses BeautifulSoup module to do web scrapping.
 
 ![Image1](demo/img1.JPG)
+![Image2](demo/img2.JPG)
+![Image3](demo/img3.JPG)
